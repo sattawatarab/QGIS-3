@@ -10,5 +10,3 @@ Manual QGIS
 
 ติดตามเราได้ที่ : https://www.facebook.com/GISStory/
 
-สนันสนุนเราได้ที่ : 
-
